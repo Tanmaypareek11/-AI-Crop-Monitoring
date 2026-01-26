@@ -1,0 +1,5 @@
+train: D:/SIH-2025/Datasets/wheat Quality/train/images
+val: D:/SIH-2025/Datasets/wheat Quality/valid/images
+
+nc: 3  # Number of classes
+names: ['healthy seed', 'bad seed', 'impurity']

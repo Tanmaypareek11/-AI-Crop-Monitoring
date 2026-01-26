@@ -1,0 +1,22 @@
+# Trained models
+*.pt
+*.pth
+*.h5
+
+# YOLO outputs
+runs/
+
+# Datasets
+data/
+datasets/
+*.jpg
+*.png
+*.tif
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Env
+venv/
+.env
